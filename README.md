@@ -4,4 +4,4 @@ Welcome on the Github page for the paper "Deep ocean prokaryotes produce increas
 
 All data and scripts will be made available upon acceptance.
 
-Raw reads are available on the NCBI Sequence Read Archive with the accession number PRJNA598.
+Raw reads are available on the NCBI Sequence Read Archive with the accession number PRJNA598915.
